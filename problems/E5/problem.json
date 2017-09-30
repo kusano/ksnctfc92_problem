@@ -1,0 +1,38 @@
+{
+    "title": "Not Guilty?",
+    "genres": ["Net", "Crypto"],
+    "statement": [
+        "<ul>",
+        "<li><a href='photo.jpg'>photo.jpg</a></li>",
+        "<li><a href='screenshot.png'>screenshot.png</a></li>",
+        "<li><a href='capture.pcap'>capture.pcap</a></li>",
+        "</ul>"
+    ],
+    "statement_hidden": [
+        "<p>ツールを使わずに解けますか？</p>",
+        "<ul>",
+        "<li><a href='main_iw0f5c12lcuckod9.go'>main.go</a></li>",
+        "<li><a href='crypted.bin'>crypted.bin</a></li>",
+        "</ul>"
+    ],
+    "files": [
+        "photo.jpg",
+        "screenshot.png",
+        "capture.pcap",
+        "main_iw0f5c12lcuckod9.go",
+        "crypted.bin"
+    ],
+    "flags": [
+        {
+            "id": "1",
+            "flags": ["FLAG{bBVqBLqTxy3pR4F8}"],
+            "point": 10,
+            "hidden": false
+        }, {
+            "id": "2",
+            "flags": ["FLAG{9K9awO04MgGuK38Q}"],
+            "point": 136,
+            "hidden": true
+        }
+    ]
+}

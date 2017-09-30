@@ -1,0 +1,37 @@
+{
+    "title": "ララ・セリーヌ・秋穂",
+    "genres": ["Crypto"],
+    "statement": [
+        "<p>RSA？</p>",
+        "<ul>",
+        "<li><a href='rsa.py'>rsa.py</a></li>",
+        "<li><a href='rsa.txt'>rsa.txt</a></li>",
+        "</ul>"
+    ],
+    "statement_hidden": [
+        "<p>RSAです。</p>",
+        "<ul>",
+        "<li><a href='rsa2.py'>rsa2.py</a></li>",
+        "<li><a href='rsa2.txt'>rsa2.txt</a></li>",
+        "</ul>"
+    ],
+    "files": [
+        "rsa.py",
+        "rsa.txt",
+        "rsa2.py",
+        "rsa2.txt"
+    ],
+    "flags": [
+        {
+            "id": "1",
+            "flags": ["FLAG{XvFtTuHAxmIYUoVD}"],
+            "point": 40,
+            "hidden": false
+        }, {
+            "id": "2",
+            "flags": ["FLAG{8JiTKbUDlT306rbW}"],
+            "point": 90,
+            "hidden": true
+        }
+    ]
+}

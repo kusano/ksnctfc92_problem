@@ -1,0 +1,12 @@
+service md5
+{
+    type = UNLISTED
+    socket_type = stream
+    protocol = tcp
+    port = 55555
+    user = md5
+    server = /home/md5/md5.sh
+    wait = no
+    instances = 100
+    per_source = 100
+}

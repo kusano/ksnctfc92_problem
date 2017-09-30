@@ -1,0 +1,40 @@
+{
+    "title": "砂漠の中の1本のフラグ",
+    "genres": ["Rev"],
+    "statement": [
+        "<ul>",
+        "<li><a href='desert.exe'>desert.exe</a></li>",
+        "<li><a href='map.png'>map.png</a></li>",
+        "</ul>",
+        "<p>操作方法</p>",
+        "<ul>",
+        "<li>↑→↓← - 移動</li>",
+        "<li>W - 緑地化</li>",
+        "<li>D - 砂漠化</li>",
+        "<li>R - 岩を置く</li>",
+        "<li>T - 木を植える</li>",
+        "<li>X - 岩や木を取り除く</li>",
+        "</ul>",
+        "<p><code>16819585654921967928, 9709471222094771744</code>にフラグがあります</p>"
+    ],
+    "statement_hidden": [
+        "<p>同じようなフラグがどこかにもう1本あります</p>"
+    ],
+    "files": [
+        "desert.exe",
+        "map.png"
+    ],
+    "flags": [
+        {
+            "id": "1",
+            "flags": ["FLAG{9729512216727087}"],
+            "point": 20,
+            "hidden": false
+        }, {
+            "id": "2",
+            "flags": ["FLAG{8703219617354016}"],
+            "point": 120,
+            "hidden": true
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "flower",
+    "genres": ["Stegano"],
+    "statement": [
+        "<p>フラグを探してください</p>",
+        "<li><a href='flower.png'>flower.png</a></li>",
+        "</ul>",
+        "<p><img src='flower.png' width='320' height='240'></p>"
+    ],
+    "statement_hidden": [
+        "<p>フラグを探してください</p>",
+        "<li><a href='black.png'>black.png</a></li>",
+        "</ul>",
+        "<p><img src='black.png' width='320' height='240'></p>"
+    ],
+    "files": [
+        "flower.png",
+        "black.png"
+    ],
+    "flags": [
+        {
+            "id": "1",
+            "flags": ["FLAG{ZPf1dTqXQcbD0ygl}"],
+            "point": 10,
+            "hidden": false
+        }, {
+            "id": "2",
+            "flags": ["FLAG{ozwPlyihMxgnxey0}"],
+            "point": 15,
+            "hidden": false
+        }, {
+            "id": "3",
+            "flags": ["FLAG{1jmmZSL4A7FSVyBz}"],
+            "point": 15,
+            "hidden": false
+        }, {
+            "id": "4",
+            "flags": ["FLAG{uERH37fgoBY6VObi}"],
+            "point": 130,
+            "hidden": true
+        }
+    ]
+}

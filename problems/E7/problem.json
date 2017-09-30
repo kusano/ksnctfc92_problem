@@ -1,0 +1,30 @@
+{
+    "title": "MD5",
+    "genres": ["Pwn"],
+    "statement": [
+        "<ul>",
+        "<li><a href='md5'>md5</a></li>",
+        "<li><a href='http://ksnctfc92.u1tramarine.blue/libc.so.6'>libc.so.6</a></li>",
+        "<li><code>nc ksnctfc92.u1tramarine.blue 55555</code></li>",
+        "</ul>"
+    ],
+    "statement_hidden": [
+        "<p>カレントディレクトリにもう1個フラグがあります。</p>"
+    ],
+    "files": [
+        "md5"
+    ],
+    "flags": [
+        {
+            "id": "1",
+            "flags": ["FLAG{EukFcauPdlPYh0bK}"],
+            "point": 60,
+            "hidden": false
+        }, {
+            "id": "4",
+            "flags": ["FLAG{OpBW3mIwSllxumQZ}"],
+            "point": 132,
+            "hidden": true
+        }
+    ]
+}

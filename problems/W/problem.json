@@ -1,0 +1,33 @@
+{
+    "title": "Kaisendon",
+    "genres": ["Forensics", "Web"],
+    "statement": [
+        "<ul>",
+        "<li><a href='kaisendon.zip'>kaisendon.zip</a></li>",
+        "<li><a href='http://ksnctfc92.u1tramarine.blue:3000/'>http://ksnctfc92.u1tramarine.blue:3000/</a></li>",
+        "</ul>"
+    ],
+    "statement_hidden": [
+    ],
+    "files": [
+        "kaisendon.zip"
+    ],
+    "flags": [
+        {
+            "id": "1",
+            "flags": ["FLAG{3snoa6p4wncj1hpf}"],
+            "point": 10,
+            "hidden": false
+        }, {
+            "id": "2",
+            "flags": ["FLAG{vakdriti4zzlj55p}"],
+            "point": 12,
+            "hidden": false
+        }, {
+            "id": "3",
+            "flags": ["FLAG{bpodf2es4k9e42rf}"],
+            "point": 13,
+            "hidden": false
+        }
+    ]
+}

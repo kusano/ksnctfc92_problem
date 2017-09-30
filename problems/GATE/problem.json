@@ -1,0 +1,25 @@
+{
+    "title": "ゲート",
+    "genres": ["Tutorial"],
+    "statement": [
+        "<table>",
+        "<tr><td><code>GATE</code></td><td>→</td><td><code>6473</code></tr>",
+        "<tr><td><code>SELF</code></td><td>→</td><td><code>531F</code></tr>",
+        "<tr><td><code>DEFENCE</code></td><td>→</td><td><code>D3F3NC3</code></tr>",
+        "<tr><td><code>FORCES</code></td><td>→</td><td><code>F0RC35</code></tr>",
+        "<tr><td><code>FLAG{WELCOME_TO_KSNCTF_C92}</code></td><td>→</td><td><code>FLAG{?????????????????????}</code></tr>",
+        "</table>"
+    ],
+    "statement_hidden": [
+    ],
+    "files": [
+    ],
+    "flags": [
+        {
+            "id": "1",
+            "flags": ["FLAG{W31C0M3_70_K5NC7F_C92}"],
+            "point": 1,
+            "hidden": false
+        }
+    ]
+}

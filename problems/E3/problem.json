@@ -1,0 +1,26 @@
+{
+    "title": "e",
+    "genres": ["Rev"],
+    "statement": [
+        "<ul><li><a href='e'>e</a></li></ul>"
+    ],
+    "statement_hidden": [
+        "<p>？</p>"
+    ],
+    "files": [
+        "e"
+    ],
+    "flags": [
+        {
+            "id": "1",
+            "flags": ["FLAG{8YDxdZTCAsugdBEv}"],
+            "point": 40,
+            "hidden": false
+        }, {
+            "id": "2",
+            "flags": ["FLAG{UGZRtAx3xoYTvHNr}"],
+            "point": 110,
+            "hidden": true
+        }
+    ]
+}
